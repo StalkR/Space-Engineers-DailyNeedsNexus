@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Daily Needs Nexus</Name>
+  <Guid>97ae983a-8ca7-4299-84d4-4eaff2691fc3</Guid>
+  <Repository>StalkR/SpaceEngineers-DailyNeedsNexus</Repository>
+  <Version>v1.0.0</Version>
+  <Dependencies>
+      <PluginDependency>
+        <Plugin>28a12184-0422-43ba-a6e6-2e228611cca5</Plugin>
+        <MinVersion>v0.92.48</MinVersion>
+      </PluginDependency>
+    </Dependencies>
+</PluginManifest>
