@@ -3,7 +3,7 @@
   <Name>Daily Needs Nexus</Name>
   <Guid>12ed7193-bb89-41e9-b53a-c78b25e9a38b</Guid>
   <Repository>StalkR/Space-Engineers-DailyNeedsNexus</Repository>
-  <Version>v1.0.2</Version>
+  <Version>v1.0.3</Version>
   <Dependencies>
       <PluginDependency>
         <Plugin>28a12184-0422-43ba-a6e6-2e228611cca5</Plugin>
