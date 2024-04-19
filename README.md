@@ -16,4 +16,4 @@ Releases on the [Torch plugin page][4].
 
 Create a [new issue][4].
 
-[4]: https://github.com/StalkR/SpaceEngineers-DailyNeedsNexus/issues/new
+[4]: https://github.com/StalkR/Space-Engineers-DailyNeedsNexus/issues/new

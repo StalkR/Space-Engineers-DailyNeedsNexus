@@ -2,7 +2,7 @@
 <PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>Daily Needs Nexus</Name>
   <Guid>12ed7193-bb89-41e9-b53a-c78b25e9a38b</Guid>
-  <Repository>StalkR/SpaceEngineers-DailyNeedsNexus</Repository>
+  <Repository>StalkR/Space-Engineers-DailyNeedsNexus</Repository>
   <Version>v1.0.2</Version>
   <Dependencies>
       <PluginDependency>
