@@ -38,10 +38,6 @@
     <Reference Include="System.Xaml" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="HavokWrapper">
-      <HintPath>TorchBinaries\DedicatedServer64\HavokWrapper.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>TorchBinaries\Newtonsoft.Json.dll</HintPath>
@@ -49,10 +45,6 @@
     </Reference>
     <Reference Include="NLog">
       <HintPath>GameBinaries\NLog.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="ProtoBuf.Net">
-      <HintPath>GameBinaries\ProtoBuf.Net.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ProtoBuf.Net.Core">
@@ -124,7 +116,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Nexus">
-      <HintPath>TorchBinaries\Plugins\Nexus\Nexus.dll</HintPath>
+      <HintPath>NexusBinaries\Nexus.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="WindowsBase" />

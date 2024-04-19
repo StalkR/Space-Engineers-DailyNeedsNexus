@@ -390,3 +390,4 @@ FodyWeavers.xsd
 # Junctions to SpaceEngineers & torch-server for references
 GameBinaries
 TorchBinaries
+NexusBinaries
